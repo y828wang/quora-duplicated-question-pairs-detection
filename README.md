@@ -7,3 +7,9 @@
   * [lstm.py](deep_learning/cnn.py) is a recurrent neural network. 
 * [feature_engineering/](feature_engineering): 60 hand crafted features on a pair of documents, Quora questions in this case. [xgboost decision trees](feature_engineering/feat_xgboost.py) ingests the features and classify whether the two questions are similiar. [plots.ipynb](plots.ipynb) shows the feature importance of trained xgboost trees. 
 * [matrix_fact/](matrix_fact): Matrix Factorization based models to extract feature vectors from Quora questions, such as LSA.
+
+Contributors: 
+Yiqun Wang 
+Weitian Ding 
+Nicolas Tam 
+Aaron Lei 
