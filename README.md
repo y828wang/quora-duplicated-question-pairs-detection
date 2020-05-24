@@ -10,6 +10,4 @@
 
 Contributors: 
 Yiqun Wang 
-Weitian Ding 
-Nicolas Tam 
-Aaron Lei 
+
